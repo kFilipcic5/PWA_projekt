@@ -19,7 +19,7 @@
                     <div class="col-lg-2"><a href="kategorija.php?id=sport">Sport</a></div>
                     <div class="col-lg-2"><a href="kategorija.php?id=politik">Politik</a></div>
                     <div class="col-lg-1"><a href="unos.html">Unos</a></div>
-                    <div class="col-lg-2"><a href="login.php">Login</a></div>>
+                    <div class="col-lg-2"><a href="login.php">Login</a></div>
                 </div>
             </nav>
         </header>
