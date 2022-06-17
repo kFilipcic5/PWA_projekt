@@ -1,3 +1,5 @@
 # PWA_projekt
 
-asdsa
+Projekt odrađen u cijelosti, postoji video koji sam uglavnom sve pokazao, neke sam značajke zaboravio staviti poput na administraciji u vezi slika u slučajevima kada je nema, kada je ista itd. Sve u svemu ako nešto nisam pokazao upalite XAMMP i provjerite sami. Ostavit ću i zip gdje će se nalaziti export baze i za svaki slučaj će biti SQL kod na githubu. Bikokakve nejasnoće slobodno se javite na moj tvz mail. 
+
+Lijep pozdrav
