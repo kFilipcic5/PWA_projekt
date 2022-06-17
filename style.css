@@ -1,0 +1,171 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 0 auto;
+    font-family: sans pro,sans-serif;
+    background-color: gainsboro !important;
+}   
+/*HEADER*/
+header{
+    background-color: white;
+    padding: 20px 0px 5px;
+    border:2px solid white;
+    border-bottom-color:rgb(255,190,0);
+}
+
+nav img{
+    width: 200px;
+}
+
+nav a{
+    text-decoration: none;
+    color: black;
+}
+nav a:hover {
+    text-decoration: underline;
+    text-decoration-thickness: 10px;
+    text-decoration-color: rgb(255,190,0);
+  }
+
+/*--------------------------------*/
+
+
+#sport{
+    background-color: white;
+    margin: 20px auto;
+    padding: 0px;
+}
+
+#politik{
+    background-color: white;
+    margin: 20px auto;
+    padding: 0px;
+}
+
+#clanak{
+    background-color: white;
+    margin: 20px auto 0px;
+    padding: 0px;
+    min-height: 419px !important;
+}
+/*FORMA*/
+#clanak form{
+    padding: 20px;
+    width: 30%;
+}
+
+
+input[type=text],input[type=password]{
+    width: 100%;
+    background: rgb(249,249,249);
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+
+
+#inputLogin{
+    width: 30% ;
+}
+
+textarea{
+    width: 100%;
+    background: rgb(249,249,249);
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+select{
+    width: 100%;
+}
+button{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(255,190,0);
+    border: 1px solid black;
+}
+form button{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(255,190,0);
+    border: 1px solid black;
+}
+
+form button:hover{
+    background-color: lightyellow;
+}
+/*----------------------------------------*/
+.articleHeader{
+    background-color: rgb(255,190,0);
+    color: white;
+    padding: 15px;
+}
+
+.articleHeader a{
+    color: white;
+    padding: 20px 10px;
+}
+
+.articleContent{
+    background-color: white;
+    padding: 10px 50px !important;
+}
+
+.articleContent a{
+    text-decoration: none;
+    color: black;
+}
+
+.articleContent img {
+    width: 100%;
+}
+
+
+/*----------------------------------*/
+
+/*FOOTER*/
+
+footer{
+
+    background-color: rgb(90, 95, 101);
+    text-align: center;
+    height: 100px;
+}
+
+.footerDescription{
+    padding: 20px 20px 0px;
+    color: gainsboro;
+}
+
+/*vijesti*/
+
+.newsContent img{
+    margin: 20px 20%;
+    width: 50%;
+}
+
+.naslov p{
+    margin-left: 15%;
+}
+
+.tekst{
+    margin: 10px 0px;
+    padding: 0px 100px !important;
+}
+#datum{
+    font-size: 12px;
+    color:gray;
+    text-align: left;
+}
+.naslov{
+    text-align: center;
+}
